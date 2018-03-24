@@ -1,4 +1,5 @@
-title: Streamdata Gallery Times
+title: Streamdata API Gallery - Times
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: times.streamdata.gallery
 tag: Times
 markdown: kramdown
