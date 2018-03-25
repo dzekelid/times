@@ -33,7 +33,7 @@ apis:
   tags: Times
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/akamai/events-v2-accountid-events-recurring-frequency,numberoftimes-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/akamai/etp-report-v1-configs-configid-dns-activities-time-series-starttimesec,endtimesec,dimension,filters-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
