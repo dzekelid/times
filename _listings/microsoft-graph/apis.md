@@ -42,9 +42,9 @@ apis:
   tags: Times
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/microsoft-graph/me-findmeetingtimes-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/microsoft-graph/users-id|userprincipalname-findmeetingtimes-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/microsoft-graph/me-findmeetingtimes-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/microsoft-graph/users-id|userprincipalname-findmeetingtimes-post-postman.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
