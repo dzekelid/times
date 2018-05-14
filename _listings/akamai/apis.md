@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/akamai/etp-report-v1-configs-configid-dns-activities-time-series-starttimesec,endtimesec,dimension,filters-get.md
-- name: Akamai API Report DNS Activities Totals
-  description: Report DNS Activities Totals
+- name: Akamai API Create a Recurring Event
+  description: Create a Recurring Event
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: https://akamai.com
   baseURL: https://developer.akamai.com//
   tags: Times
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/akamai/etp-report-v1-configs-configid-dns-activities-aggregate-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/times/master/_listings/akamai/events-v2-accountid-events-recurring-post.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
